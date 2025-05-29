@@ -1,0 +1,6 @@
+A demonstração mostrou como construir um fluxo de conversa personalizado do início ao fim.
+Foi possível entender como o copiloto: Coleta informações do usuário; Responde com base em lógica condicional; Usa GenAI para melhorar a experiência conversacional;
+E como fazer testes em tempo real do copilot para validar seu funcionamento.
+Conclusão: Podemos criar e estruturar um copiloto do zero no Microsoft Copilot Studio; Personalizar os tópicos e a jornada do usuário;
+Usar mensagens de erro para melhorar a navegação; Explorar o poder da GenAI para adaptar as respostas e
+Fazer testes e ajustes para entregar uma experiência conversacional inteligente e eficaz.

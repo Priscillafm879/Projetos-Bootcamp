@@ -1,3 +1,28 @@
+# Demonstração – Microsoft Copilot Studio 🤖
+
+Este repositório contém anotações e aprendizados obtidos durante a demonstração prática do Microsoft Copilot Studio, focada na criação de assistentes conversacionais personalizados com o uso de fluxos, lógica condicional e IA generativa (GenAI).
+
+## 🚀 Funcionalidades Observadas
+
+- Coleta de informações estruturadas dos usuários
+- Lógica condicional para adaptação de respostas
+- Uso de GenAI para enriquecer a conversação
+- Testes em tempo real e ajustes de comportamento
+
+## 🧠 Conclusões
+
+A ferramenta permite:
+- Construir copilotos personalizados alinhados com as necessidades do negócio
+- Adaptar tópicos e fluxos com flexibilidade
+- Utilizar mensagens de erro inteligentes
+- Aplicar testes contínuos para aprimoramento da experiência do usuário
+
+## 💡 Aplicações
+
+Ideal para empresas que desejam oferecer uma experiência conversacional eficiente, intuitiva e com alto valor agregado, sem depender exclusivamente de desenvolvedores.
+
+## 💡Explorando o Microsoft Copilot Studio: Criação de Assistentes Inteligentes:
+
 Demonstração do Microsoft Copilot Studio:
 A demonstração apresentou de forma clara como criar um fluxo de conversa personalizado do início ao fim. 
 Foi possível observar como o Copilot:

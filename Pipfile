@@ -1,6 +1,5 @@
-O que é o Pipfile?
-O Pipfile é um arquivo usado pelo pipenv, uma ferramenta que gerencia dependências e ambientes virtuais Python de forma simples e organizada. 
-Ele substitui o tradicional requirements.txt, oferecendo mais controle e informações sobre o ambiente.
+O Pipfile é um arquivo usado pelo pipenv, uma ferramenta que gerencia dependências e ambientes virtuais Python de forma simples e 
+organizada. Ele substitui o tradicional requirements.txt, oferecendo mais controle e informações sobre o ambiente.
 
 Código Pipfile abaixo:
 Define a fonte de onde os pacotes Python serão baixados.
